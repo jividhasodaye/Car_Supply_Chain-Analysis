@@ -130,3 +130,4 @@ Some states contribute higher sales revenue, indicating stronger regional demand
 Customer feedback shows a mixed satisfaction level, highlighting opportunities for improvement.
 
 📸 Dashboard Screenshot
+https://github.com/jividhasodaye/Car_Supply_Chain-Analysis/blob/main/car_suppy_chain.JPG
